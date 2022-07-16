@@ -34,6 +34,12 @@ a, .btn-link {
     color: red;
 }
 
+.validation-error li {color: red;}
+
+.page-background {
+    background-image:url(../images/ketupat.png)
+}
+
 #blazor-error-ui {
     background: lightyellow;
     bottom: 0;
