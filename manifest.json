@@ -1,6 +1,10 @@
 {
   "name": "MyCookies PWA",
   "short_name": "PWA",
+  "start_url": "pwa.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#03173d",
   "icons": [
     {
       "src": "icons/icon-128x128.png",
@@ -27,9 +31,6 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "start_url": "pwa.html",
-  "display": "standalone",
-  "background_color": "#3498DB",
-  "theme_color": "#3498DB"
+  ]
+
 }
